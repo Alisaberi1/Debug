@@ -14,16 +14,16 @@ n
 n It should be printed in a single digit number according to the Mehdi method.
 
 Example
-Sample Entry 1
+Sample Entry 1 :
 14
 
-Sample Output 1
+Sample Output 1:
 5
 
-Sample Input 2
+Sample Input 2:
 123456
 
-Sample Output 2
+Sample Output 2:
 3
 
 In the first step, the number 123456 becomes 6 + 5 + 4 + 3 + 2 + 1 = 21. In the second step, the number 21 becomes 1 + 2 = 3.
